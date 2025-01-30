@@ -27,14 +27,7 @@ Este é um **portfólio responsivo** com **duas páginas**, desenvolvido com **H
 ✅ **Seção de apresentação com imagem e texto**.  
 ✅ **Links sociais estilizados**.  
 ✅ **Responsividade impecável** para mobile e desktop.  
-
----
-
-## 📸 Capturas de Tela
-
-![Mockup do Site](https://via.placeholder.com/800x400?text=Coloque+um+print+do+site+aqui)  
-
----
+ 
 
 ## 🛠 Como Executar o Projeto
 
