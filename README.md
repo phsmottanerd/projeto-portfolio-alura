@@ -28,17 +28,6 @@ Este é um **portfólio responsivo** com **duas páginas**, desenvolvido com **H
 ✅ **Links sociais estilizados**.  
 ✅ **Responsividade impecável** para mobile e desktop.  
  
-
-## 🛠 Como Executar o Projeto
-
-1️⃣ Clone este repositório:  
-```bash
-  git clone https://github.com/seu-usuario/seu-repositorio.git
-```
-2️⃣ Abra o arquivo `index.html` no navegador.
-
----
-
 ## 🏅 Aprendizados
 
 ✅ Como estruturar um site responsivo do zero.  
